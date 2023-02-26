@@ -20,7 +20,11 @@ https://github.com/AidaMillatiMardiana/P2_PBF/blob/master/StringTemplate.md
 - array method foreach dan map : (https://github.com/gustaaa/Javascript_ES6/blob/11-Array-Method-Foreach-dan-Map/README.md)
 - async javascript(promise, asych - await), https://github.com/safira123-pixel/ASYNC_JAVASCRIPT
 - javascript module (multiple import/export, export default, import alias, import All)
+   
    ** Multiple import/export (https://github.com/faizakurnia/Multiplr_import_export/tree/main#readme)
+   
    ** Export default (https://github.com/yobipratama/ES6_Week2/blob/main/Pengertian.md)
+   
    ** Import Alias
+   
    ** Import All (https://github.com/DiltaFebiana/Pertemuan-2/blob/master/Penjelasan.md)
