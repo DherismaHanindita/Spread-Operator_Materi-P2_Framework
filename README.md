@@ -1,4 +1,5 @@
 # MATERI 
+Link penilaian : https://spectacled-catboat-a01.notion.site/Penilaian-TI-3G-8a565ea5c9924042aa68bb7e6e5c974f
 Refrensi Spread Operator : https://youtu.be/AT5hfOL1Ddk
 
 Materi ajar 
