@@ -13,7 +13,7 @@ https://github.com/AidaMillatiMardiana/P2_PBF/blob/master/StringTemplate.md
 (https://github.com/AhmadRafif22/Pertemuan-2---es6/blob/06-Class-dan-Object/readme.md),
 - processing object (https://github.com/RosisHudaya/ES6/blob/07-Processing-Object/README.md)
 - array dan object destruction : ( https://github.com/Thirsya/ES6/blob/8.-Array-dan-Object-Destruction/Array%20and%20Object%20Destruction.md )
-- spread operator 
+- spread operator : (https://github.com/DherismaHanindita/Spread-Operator_Materi-P2_Framework.git)
 - rest parameter,
 - array method foreach dan map : (https://github.com/gustaaa/Javascript_ES6/blob/11-Array-Method-Foreach-dan-Map/README.md)
 - async javascript(promise, asych - await), https://github.com/safira123-pixel/ASYNC_JAVASCRIPT
