@@ -1,0 +1,23 @@
+Penilaian Pertemuan 1 : https://www.notion.so/Penilaian-TI-3G-8a565ea5c9924042aa68bb7e6e5c974f 
+
+Materi pertemuan 2
+1. ES 6
+a. pelajari tentang Let
+b. pelajari tentang const
+c. pelajari tentang Templaye String
+d. Arrow notation
+e. functions as First Zitizen
+f. Class Object
+g. Processing object
+h. Array and Object Destruction
+i. Spread Operator
+j. rest Parameter
+k. array method For Each() dan map()
+i. Asyncy Javascripst
+	 -Promise
+	 -Async - Await
+m. Javascripst module
+	- multiple Import/ Export
+	- Export Default
+	- import alias 	
+	- import all

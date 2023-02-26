@@ -1,0 +1,9 @@
+SPREAD OPERATOR
+
+1. Spred Operator => Berfungsi memasukkan beberapa argument yang beerbentuk data array dalam fungsi, atau memasukkan 
+nilai array berbentuk data array kedalam fungsi/ memasukkan data array ke dalam array lainnya
+2. Spread Operator ini menggunakan 3 titik 
+3. Inti dari spear operator yaitu sebagai Pelebur array menjadi 
+beberapa elemen yang berbeda fitur 
+4. Spread operator ==== Memecah (expend / unpack) menjadi single element
+5. Iterabel (mis, Array, String dan Object) 
