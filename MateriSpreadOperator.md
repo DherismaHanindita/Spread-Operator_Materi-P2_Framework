@@ -31,20 +31,24 @@ Hasil <image src= "Image\4.png">
 * Kemudian dapat di gabung antara 2 array diatas 
 Yaitu :
 <image src= "Image\5.png">
-Hasil <image src= "Image\6.png">
+Hasil 
+<image src= "Image\6.png">
 
 <b>3. Spread Operator juga dapat menggabungkan array ditengah </b>
 <image src= "Image\7.png">
-Hasil <image src= "Image\8.png">
+Hasil 
+<image src= "Image\8.png">
 
 <b>4. Spread Operator dapat menyalin Array atau Object</b>
 * Jika yang di console hanya array ke 1 
 <image src= "Image\9.png">
-Hasil <image src= "Image\10.png">
+Hasil 
+<image src= "Image\10.png">
 
 * Jika yang di console ingin array ke 2
 <image src= "Image\11.png">
-Hasil <image src= "Image\12.png">
+Hasil 
+<image src= "Image\12.png">
 
 ## Penggunaan Dengan Objek
 Saat digunakan dengan objek, operator spread dapat digunakan untuk:
