@@ -22,7 +22,9 @@ Jika codingan seperti dibawah maka yang akan tampil adalah array
 Hasil
 <image src= "Image\2.png">
 
-Tapi kalau saya tambah fungsi Spread Operator "..." Maka :
+Tapi kalau saya tambah fungsi Spread Operator "..." 
+Maka :
+
 <image src= "Image\3.png">
 Hasil <image src= "Image\4.png">
 
@@ -35,6 +37,7 @@ Hasil
 <image src= "Image\6.png">
 
 <b>3. Spread Operator juga dapat menggabungkan array ditengah </b>
+
 <image src= "Image\7.png">
 Hasil 
 <image src= "Image\8.png">
