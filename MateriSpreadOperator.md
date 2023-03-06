@@ -3,9 +3,9 @@
 
 Spread Operator dilambangkan dengan tiga titik "..." dan digunakan untuk menyebarkan atau memperluas elemen objek yang dapat diubah seperti array, string atau object
 
-1. Spred Operator => Berfungsi memasukkan beberapa argument yang beerbentuk data array dalam fungsi, atau memasukkan nilai array berbentuk data array kedalam fungsi/ memasukkan data array ke dalam array lainnya
+1. Spred Operator Berfungsi memasukkan beberapa argument yang beerbentuk data array dalam fungsi, atau memasukkan nilai array berbentuk data array kedalam fungsi/ memasukkan data array ke dalam array lainnya
 2. Inti dari spread operator yaitu sebagai Pelebur array menjadi beberapa elemen yang berbeda fitur 
-4. Spread operator ====> Memecah (expend / unpack) menjadi single element
+4. Spread operator yaitu untuk Memecah (expend / unpack) menjadi single element
 5. Yang awalnya berasal dari Iterabel (yang awalnya banyak elemen) kemudian menjadi single elemen (mis: Array, String dan Object) 
 
 ## Penggunaan Dengan Array
